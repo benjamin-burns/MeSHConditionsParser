@@ -96,7 +96,7 @@ def parseFile(inputFile, out):
             inputFile (str)
                     file path of DrugBank input file
             out (str)
-                    output file path
+                    output stream
 
         Updates:
             out
